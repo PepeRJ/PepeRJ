@@ -21,8 +21,8 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la tecnolo
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## 🌱 Actualmente Aprendiendo
+## 🌱 Actualmente 
 
-Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades técnicas para seguir creciendo como desarrollador.
+Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades técnicas para seguir creciendo como desarrollador, ya sea con proyectos personales o para cliente.
 
 ¡Gracias por visitar mi perfil!
