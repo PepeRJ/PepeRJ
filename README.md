@@ -5,5 +5,5 @@
 
 👀 Estoy interesado en expandir mis conocimientos y aprender mientras trabajo en proyectos desafiantes.  
 🌱 Actualmente trabajo realizando proyectos personales y para clientes utilizando: Angular, HTML, SCSS, TypeScript, JavaScript, Node.js y MySQL.  
-💼 Busco colaborar en proyectos que requieran un Desarrollador Frontend Junior.  
+💼 Colabiro en proyectos que requieren de un Desarrollador Frontend.  
 📫 Cómo contactarme: [peperj7@gmail.com](mailto:peperj7@gmail.com)
