@@ -4,6 +4,6 @@
 **Portafolio ✨:** [peperj.es](https://peperj.es)
 
 👀 Estoy interesado en expandir mis conocimientos y aprender mientras trabajo en proyectos desafiantes.  
-🌱 Actualmente trabajo realizando proyectos personales y para clientes utilizando: Angular, HTML, SCSS, TypeScript, JavaScript, Node.js y MySQL.  
+🌱 Actualmente trabajo realizando proyectos personales y para clientes utilizando: Angular, HTML, SCSS, TypeScript, JavaScript, JAVA, Node.js y MySQL.  
 💼 Colaboro en proyectos que requieren de un Desarrollador Frontend.  
 📫 Cómo contactarme: [peperj7@gmail.com](mailto:peperj7@gmail.com)
